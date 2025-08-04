@@ -33,8 +33,6 @@
 
 You can use any of the following public datasets:
 - [Kaggle: Disease Symptom Description Dataset](https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset)
-- [Kaggle: Disease Prediction Dataset by Pratik Sharma](https://www.kaggle.com/datasets/pratiksharm/store-dataset)
-- [UCI: Symptom Disease Dataset](https://archive.ics.uci.edu/ml/datasets/Symptom+Disease+Dataset)
 
 ---
 
